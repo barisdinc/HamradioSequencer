@@ -24,6 +24,6 @@ TODO:
 
 Schematics and box drawings are provided as documentation
 
-73's DE TA7W
+73's DE TA7W/OH2UDS
 Baris DINC
 
